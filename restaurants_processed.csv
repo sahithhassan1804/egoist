@@ -1,0 +1,509 @@
+Restaurant Name,City,Place Name,Cuisine ,Dining Rating,Delivery Rating,Overall Rating,Dining Votes,Delivery Votes,Average Price,Menu Items,Features
+12 To 12 BBQ,Kochi,Panampilly Nagar,Biryani,4.0,4.0,4.0,104,0,276.8978102189781,137,12 to 12 bbq biryani kochi panampilly nagar
+1441 Pizzeria,Mumbai,Sion,Desserts,4.0,4.0,4.0,0,0,346.02933333333334,105,1441 pizzeria desserts mumbai sion
+4M Biryani House,Hyderabad,Musheerabad,Chinese,4.1,4.2,4.15,0,0,203.76530612244898,98,4m biryani house chinese hyderabad musheerabad
+99 Pancakes,Mumbai,Matunga East,Beverages,3.8,4.1,3.9499999999999997,92,659,217.79322784810128,158,99 pancakes beverages mumbai matunga east
+A Balaji Santosh Dhaba,Hyderabad,Langer Houz,Chinese,3.7,4.0,3.85,9,974,294.5407407407407,135,a balaji santosh dhaba chinese hyderabad langer houz
+A1 Ambur Briyani & Kababs,Chennai,Aminijikarai,Chinese,4.0,3.7,3.85,92,0,257.36842105263156,76,a1 ambur briyani & kababs chinese chennai aminijikarai
+A2B - Adyar Ananda Bhavan,Bangalore,Shanti Nagar,"Beverages, Juices",3.6,4.2,3.9000000000000004,137,0,179.77639344262295,183,"a2b - adyar ananda bhavan beverages, juices bangalore shanti nagar"
+AB's - Absolute Barbecues,Chennai,T. Nagar,Desserts,4.7,3.7,4.2,0,0,338.53074626865674,67,ab's - absolute barbecues desserts chennai t. nagar
+Acme Candy Food,Hyderabad,Malakpet,Desserts,3.911782786885246,3.911782786885246,3.911782786885246,0,0,245.46666666666667,15,acme candy food desserts hyderabad malakpet
+Adhiya Beef Biriyani,Chennai,Nungambakkam,Biryani,3.6,3.6,3.6,0,0,161.126582278481,79,adhiya beef biriyani biryani chennai nungambakkam
+Agarwal Caterers,Jaipur,Shastri Nagar,Fast Food,3.6,4.3,3.95,54,0,133.74651877133107,293,agarwal caterers fast food jaipur shastri nagar
+Agarwal's Desi Khana Khazana,Chennai,Kilpauk,Rajasthani,3.1,4.1,3.5999999999999996,26,484,206.83582089552237,134,agarwal's desi khana khazana rajasthani chennai kilpauk
+Akbar Fast Food,Hyderabad,Charminar Area,North Indian,3.1,3.6,3.35,10,0,122.5,4,akbar fast food north indian hyderabad charminar area
+Al - Hamoor Arabian Restaurant,Hyderabad,Chandrayanagutta,Desserts,3.8,3.8,3.8,1,116,428.0,5,al - hamoor arabian restaurant desserts hyderabad chandrayanagutta
+Al Akbar Fast Food Corner,Hyderabad,Charminar,Beverages,3.9,4.2,4.05,5,0,145.66666666666666,12,al akbar fast food corner beverages hyderabad charminar
+Al Baik,Chennai,Egmore,Beverages,3.0,3.5,3.25,48,716,384.21649484536084,97,al baik beverages chennai egmore
+Al Faham,Chennai,Vepery,Beverages,3.6,3.6,3.6,117,0,268.3393665158371,221,al faham beverages chennai vepery
+Al Farooj Sonu Kabab,Hyderabad,Ghansi Bazaar,North Indian,4.0,3.9,3.95,66,0,198.24324324324326,37,al farooj sonu kabab north indian hyderabad ghansi bazaar
+Al Rabea Al Arabi Cafeteria,Hyderabad,Saroor Nagar,Fast Food,3.2,4.4,3.8000000000000003,40,0,165.3783783783784,37,al rabea al arabi cafeteria fast food hyderabad saroor nagar
+Al Rabea Mandi House,Hyderabad,Charminar,Mandi,4.3,4.3,4.3,1,198,475.38461538461536,13,al rabea mandi house mandi hyderabad charminar
+Al Taza,Kochi,Kaloor,Beverages,4.4,4.4,4.4,367,0,162.5,24,al taza beverages kochi kaloor
+Ambaram Fast Food,Chennai,Egmore,Biryani,3.8,3.6,3.7,35,0,136.7391304347826,46,ambaram fast food biryani chennai egmore
+Ambika Foods,Hyderabad,Attapur,Momos,3.9,3.9,3.9,0,111,156.7741935483871,93,ambika foods momos hyderabad attapur
+Amfah Hotel,Hyderabad,Mehdipatnam,North Indian,4.2,3.7,3.95,129,0,200.0,34,amfah hotel north indian hyderabad mehdipatnam
+Amma Ki Rasoi,Jaipur,MI Road,Wraps,3.3,3.3,3.3,0,571,185.57142857142858,35,amma ki rasoi wraps jaipur mi road
+Andewalaz,Jaipur,Masala Chowk,Street Food,3.3,4.0,3.65,41,0,175.17757009345794,107,andewalaz street food jaipur masala chowk
+Anjappar,Chennai,Parrys,Beverages,3.1,3.8,3.45,74,0,275.05445544554453,202,anjappar beverages chennai parrys
+Annamaya,Mumbai,Byculla,Beverages,4.3,4.1,4.199999999999999,187,952,258.0637254901961,204,annamaya beverages mumbai byculla
+Apoorva Delicacies,Mumbai,Dadar Shivaji Park,Beverages,3.8,4.1,3.9499999999999997,654,0,244.9418604651163,430,apoorva delicacies beverages mumbai dadar shivaji park
+Arabian Central,Hyderabad,Chandrayanagutta,Fast Food,2.9,4.3,3.5999999999999996,8,975,154.4857142857143,35,arabian central fast food hyderabad chandrayanagutta
+Arabian Dreams,Kochi,Kadavanthra,Shawarma,2.9,3.6,3.25,11,0,164.05833333333334,120,arabian dreams shawarma kochi kadavanthra
+Arabian Food Court,Hyderabad,Falaknuma,Fast Food,4.0,4.0,4.0,0,217,86.25,4,arabian food court fast food hyderabad falaknuma
+Arham,Jaipur,Ajmer Highway,Beverages,4.1,4.1,4.1,230,0,229.37412587412587,286,arham beverages jaipur ajmer highway
+Armaani Biryani,Chennai,Arumbakkam,Seafood,3.6,3.6,3.6,0,84,351.24,25,armaani biryani seafood chennai arumbakkam
+Aromas Cafe & Bistro,Mumbai,Linking Road,Beverages,4.3,4.0,4.15,0,0,355.52525252525254,297,aromas cafe & bistro beverages mumbai linking road
+Art Of Biryani,Hyderabad,Kothapet,Desserts,4.0,3.7,3.85,63,0,348.42045454545456,88,art of biryani desserts hyderabad kothapet
+Art Of Dum,Mumbai,Worli,Beverages,4.4,4.4,4.4,0,0,553.5977011494252,87,art of dum beverages mumbai worli
+Asian Bowls By Zahvi,Goa,Porvorim,Vietnamese,3.911782786885246,3.911782786885246,3.911782786885246,0,3,512.5,4,asian bowls by zahvi vietnamese goa porvorim
+Atlanta  Family Resto And Bar,Goa,Porvorim,Ice Cream,3.911782786885246,3.911782786885246,3.911782786885246,0,0,276.65625,160,atlanta  family resto and bar ice cream goa porvorim
+Atom-Bomb Quality Kitchen,Goa,Penha de Franca,Sichuan,3.5,3.5,3.5,0,508,312.5869565217391,46,atom-bomb quality kitchen sichuan goa penha de franca
+BBQ Master,Chennai,Perambur,Sichuan,3.5,4.1,3.8,4,0,215.98958333333334,96,bbq master sichuan chennai perambur
+BOX8 - Desi Meals,Mumbai,Wadala,Beverages,4.1,4.1,4.1,0,0,247.28048780487805,164,box8 - desi meals beverages mumbai wadala
+Babal Da Punjabi Dabha,Chennai,Egmore,Beverages,4.4,4.2,4.300000000000001,405,0,273.87114845938373,357,babal da punjabi dabha beverages chennai egmore
+Balaji Fast Food,Jaipur,Brahmpuri,Street Food,3.8,3.4,3.5999999999999996,5,708,122.66666666666667,90,balaji fast food street food jaipur brahmpuri
+Balaji Santosh Family Dhaba,Hyderabad,Amberpet,Beverages,3.8,4.1,3.9499999999999997,273,0,236.301775147929,169,balaji santosh family dhaba beverages hyderabad amberpet
+Bar Malim,Goa,Penha de Franca,Fast Food,3.911782786885246,3.911782786885246,3.911782786885246,0,0,145.58823529411765,68,bar malim fast food goa penha de franca
+Barbeque Nation,Hyderabad,Abids,Beverages,4.2,3.8,4.0,34,369,659.5098039215686,51,barbeque nation beverages hyderabad abids
+Barista Coffee,Jaipur,C Scheme,Desserts,4.1,4.0,4.05,221,441,210.10204081632654,49,barista coffee desserts jaipur c scheme
+Barrack's Grill,Hyderabad,Chandrayanagutta,Beverages,4.1,4.1,4.1,0,403,188.8,50,barrack's grill beverages hyderabad chandrayanagutta
+Basant Dhaba,Jaipur,Gopalpura,Beverages,3.0,3.9,3.45,142,0,211.67052023121389,173,basant dhaba beverages jaipur gopalpura
+Basheer Bai Biriyani,Chennai,Egmore,Kerala,3.3,3.8,3.55,16,0,173.33333333333334,6,basheer bai biriyani kerala chennai egmore
+Baskin Robbins - Ice Cream Desserts,Kochi,Centre Square Mall,Beverages,4.4,4.4,4.4,0,487,219.81117647058824,85,baskin robbins - ice cream desserts beverages kochi centre square mall
+Bawarchi,Hyderabad,RTC X roads,Desserts,4.2,4.1,4.15,0,0,165.97087378640776,103,bawarchi desserts hyderabad rtc x roads
+Bedi's Naan House,Pune,Dhankawadi,Biryani,3.7,3.6,3.6500000000000004,281,0,160.71014492753622,69,bedi's naan house biryani pune dhankawadi
+Bektash Turkishcafe,Kochi,Marad,"Juices, Kebab",4.2,4.2,4.2,621,0,154.83673469387756,147,"bektash turkishcafe juices, kebab kochi marad"
+Bell Pepper Pizza,Jaipur,Jhotwara,Beverages,4.1,3.9,4.0,151,666,209.67532467532467,77,bell pepper pizza beverages jaipur jhotwara
+Best Belgian Waffle,Pune,Erandwane,Beverages,3.2,4.2,3.7,173,0,214.7462686567164,67,best belgian waffle beverages pune erandwane
+Beyondburg Inc,Kochi,Palarivattom,Continental,3.9,4.4,4.15,14,0,305.25,44,beyondburg inc continental kochi palarivattom
+Bhosle's Food Court,Goa,Panaji,North Indian,2.7,2.7,2.7,15,1,76.35483870967742,31,bhosle's food court north indian goa panaji
+Big Bowl,Pune,Kumar Pacific Mall,Momos,3.8,3.8,3.8,0,305,240.41935483870967,124,big bowl momos pune kumar pacific mall
+Big Daddy's,Pune,Salunkhe Vihar Road,Beverages,3.6,3.9,3.75,289,0,289.9032258064516,93,big daddy's beverages pune salunkhe vihar road
+Big Fat Momo,Kochi,Kacheripady,Fast Food,4.3,4.1,4.199999999999999,426,0,141.49242424242425,132,big fat momo fast food kochi kacheripady
+Biggies Burger,Pune,FC Road,Desserts,4.0,4.2,4.1,102,487,194.65217391304347,92,biggies burger desserts pune fc road
+Bikkgane Biryani,Pune,Kothrud,Mughlai,3.8,3.8,3.8,0,0,344.8333333333333,120,bikkgane biryani mughlai pune kothrud
+Biriyani Bash,Kochi,Vyttila,Biryani,3.6,3.1,3.35,7,870,184.11764705882354,34,biriyani bash biryani kochi vyttila
+Biryani By Kilo,Mumbai,Khar,Kebab,4.2,4.2,4.2,0,0,425.2592753623188,69,biryani by kilo kebab mumbai khar
+Biryani Hub,Goa,Porvorim,Desserts,3.911782786885246,3.911782786885246,3.911782786885246,0,0,375.5,20,biryani hub desserts goa porvorim
+Bismillah Briyani & Fast Foods,Chennai,Kolathur,Sichuan,3.9,3.8,3.8499999999999996,176,0,206.0863309352518,139,bismillah briyani & fast foods sichuan chennai kolathur
+Blue Nile,Pune,Camp Area,Beverages,3.6,4.1,3.8499999999999996,0,0,265.4810996563574,291,blue nile beverages pune camp area
+Blue Sea Restaurant,Hyderabad,Basheer Bagh,North Indian,4.1,4.1,4.1,2,940,210.54794520547946,146,blue sea restaurant north indian hyderabad basheer bagh
+Blue Sea Tea & Bakery,Hyderabad,Abids,Bakery,3.911782786885246,3.911782786885246,3.911782786885246,0,0,158.0,35,blue sea tea & bakery bakery hyderabad abids
+Blue Tokai Coffee Roasters,Mumbai,Mahalaxmi,Desserts,4.3,4.1,4.199999999999999,265,0,296.20679425837324,209,blue tokai coffee roasters desserts mumbai mahalaxmi
+Boojee Cafe,Mumbai,Carter Road,Desserts,4.5,4.3,4.4,319,0,355.5900621118012,161,boojee cafe desserts mumbai carter road
+Brown Sugar,Jaipur,Axis Mall,Beverages,4.1,4.2,4.15,0,0,231.70496402877697,139,brown sugar beverages jaipur axis mall
+BrownBear,Hyderabad,Himayath Nagar,Fast Food,3.6,4.0,3.8,239,0,449.09090909090907,22,brownbear fast food hyderabad himayath nagar
+Buhari Special Juice,Kochi,Palarivattom,Beverages,4.0,4.3,4.15,74,0,85.21739130434783,23,buhari special juice beverages kochi palarivattom
+Buhari Vintage Hotel,Chennai,Kilpauk,Beverages,3.5,4.1,3.8,101,0,299.0983606557377,183,buhari vintage hotel beverages chennai kilpauk
+Burger - Since 1989,Pune,Koregaon Park,Fast Food,4.0,4.3,4.15,0,0,90.0,20,burger - since 1989 fast food pune koregaon park
+Burger King,Hyderabad,The Next Galleria Mall,"Beverages, Fast Food",4.1,4.1,4.1,747,0,272.23372013651874,293,"burger king beverages, fast food hyderabad the next galleria mall"
+Burger Lane,Jaipur,Raja Park,Fast Food,3.5,3.5,3.5,0,343,121.24880952380951,42,burger lane fast food jaipur raja park
+Burger Shack,Jaipur,C Scheme,Beverages,3.9,4.2,4.05,78,0,126.53488372093024,43,burger shack beverages jaipur c scheme
+Burger Singh - Big Punjabi Burgers,Jaipur,Raja Park,Fast Food,3.8,4.2,4.0,11,210,222.1262162162162,111,burger singh - big punjabi burgers fast food jaipur raja park
+Burger Spot,Kochi,GCDA Shopping Complex,Beverages,3.9,3.8,3.8499999999999996,7,801,306.1034482758621,87,burger spot beverages kochi gcda shopping complex
+BurgerMan,Chennai,Egmore,Beverages,4.4,4.3,4.35,56,921,257.0,87,burgerman beverages chennai egmore
+Burgeria,Kochi,Kaloor,Beverages,4.0,4.3,4.15,29,0,231.0,38,burgeria beverages kochi kaloor
+Burgerino,Pune,Camp Area,Burger,3.5,3.5,3.5,0,234,179.57407407407408,54,burgerino burger pune camp area
+Burgs & Fries,Jaipur,Raja Park,Beverages,3.9,3.9,3.9,0,0,278.2312121212121,66,burgs & fries beverages jaipur raja park
+CEE YEM Bakers,Kochi,Palluruthy,Mandi,2.7,3.6,3.1500000000000004,6,845,119.86585365853658,82,cee yem bakers mandi kochi palluruthy
+Cafe 17,Kochi,Ravipuram,Beverages,4.6,4.1,4.35,259,0,268.90909090909093,165,cafe 17 beverages kochi ravipuram
+Cafe 555 & Aqeeq Restaurant,Hyderabad,Masab Tank,Desserts,4.2,4.1,4.15,0,0,215.43129770992365,262,cafe 555 & aqeeq restaurant desserts hyderabad masab tank
+Cafe Amin,Chennai,Royapettah,Beverages,4.1,4.2,4.15,260,0,204.12844036697248,109,cafe amin beverages chennai royapettah
+Cafe Ave Maria,Goa,Panaji,Bakery,3.9,3.9,3.9,0,807,176.9277108433735,83,cafe ave maria bakery goa panaji
+Cafe Central,Goa,Penha de Franca,Street Food,3.9,4.0,3.95,15,31,114.08809523809524,21,cafe central street food goa penha de franca
+Cafe Cilantro,Goa,Porvorim,Maharashtrian,3.7,3.7,3.7,0,250,244.22222222222223,45,cafe cilantro maharashtrian goa porvorim
+Cafe Cup Of Joy,Goa,Candolim,Street Food,3.911782786885246,3.911782786885246,3.911782786885246,0,4,131.25,16,cafe cup of joy street food goa candolim
+Cafe Durbar AFC,Kochi,Pallimukku,Beverages,3.8,3.7,3.75,36,0,212.48823529411766,68,cafe durbar afc beverages kochi pallimukku
+Cafe Feed Me More,Goa,Saligao,Fast Food,3.911782786885246,3.911782786885246,3.911782786885246,0,1,112.57575757575758,33,cafe feed me more fast food goa saligao
+Cafe Niloufer,Hyderabad,Himayath Nagar,Beverages,4.3,4.4,4.35,338,0,230.8372277227723,202,cafe niloufer beverages hyderabad himayath nagar
+Cafe Rasa,Goa,Panaji,Sandwich,3.9,3.9,3.9,16,0,298.3333333333333,30,cafe rasa sandwich goa panaji
+Cake Destination,Goa,Porvorim,Desserts,3.911782786885246,3.911782786885246,3.911782786885246,0,0,122.3076923076923,13,cake destination desserts goa porvorim
+Cake Hut,Jaipur,Sodala,Desserts,3.8,3.8,3.8,0,407,819.2105263157895,38,cake hut desserts jaipur sodala
+CakeZone,Hyderabad,Himayath Nagar,Desserts,4.2,4.2,4.2,0,0,425.5766871165644,163,cakezone desserts hyderabad himayath nagar
+Calicut Notebook,Kochi,Kaloor,Biryani,3.9,4.0,3.95,121,0,248.06451612903226,124,calicut notebook biryani kochi kaloor
+California Burrito,Hyderabad,Boiguda,Beverages,4.2,4.3,4.25,221,0,211.66727272727275,88,california burrito beverages hyderabad boiguda
+Capital Multi Cuisine Restaurant,Hyderabad,Malakpet,"Beverages, Mughlai",4.2,3.9,4.05,32,428,342.30737704918033,488,"capital multi cuisine restaurant beverages, mughlai hyderabad malakpet"
+Captain Chick,Jaipur,Jhotwara,Fast Food,3.0,4.2,3.6,9,844,190.51020408163265,49,captain chick fast food jaipur jhotwara
+Captain Kunafa,Hyderabad,Malakpet,Turkish,4.1,4.1,4.1,208,699,244.0909090909091,22,captain kunafa turkish hyderabad malakpet
+Casa Blanca,Mumbai,Byculla,Continental,3.6,3.6,3.6,0,0,358.02443064182194,483,casa blanca continental mumbai byculla
+Ceylon Bake House,Kochi,Marine Drive,Rolls,4.0,3.7,3.85,415,0,267.5056179775281,267,ceylon bake house rolls kochi marine drive
+Chaayos Chai+Snacks=Relax,Pune,Camp Area,Beverages,3.8,3.8,3.8,0,247,278.0098290598291,117,chaayos chai+snacks=relax beverages pune camp area
+Chaitanya,Mumbai,Dadar West,Beverages,4.5,4.4,4.45,0,0,212.45762711864407,59,chaitanya beverages mumbai dadar west
+Charcoal Eats - Biryani & Beyond,Mumbai,Dadar East,Rolls,4.1,4.1,4.1,0,0,510.9528571428571,98,charcoal eats - biryani & beyond rolls mumbai dadar east
+Chawla's Restaurant,Jaipur,C Scheme,Chinese,4.1,4.0,4.05,411,0,358.52073732718895,217,chawla's restaurant chinese jaipur c scheme
+Cheelizza - India Ka Pizza,Mumbai,Worli,Fast Food,3.9,3.9,3.9,0,333,327.24022346368713,179,cheelizza - india ka pizza fast food mumbai worli
+Chicking,Chennai,Nungambakkam,Fast Food,3.3,4.0,3.65,151,0,373.2758620689655,58,chicking fast food chennai nungambakkam
+Chidambaram New Moorthy Cafe,Chennai,Anna Nagar West,Beverages,4.3,4.1,4.199999999999999,246,0,246.61570247933884,242,chidambaram new moorthy cafe beverages chennai anna nagar west
+Chill Out,Pune,Bibvewadi,Beverages,3.7,4.3,4.0,32,0,111.96428571428571,84,chill out beverages pune bibvewadi
+Chinese Wok,Bangalore,Malleshwaram,Chinese,3.3,4.0,3.65,2,593,276.1975308641975,162,chinese wok chinese bangalore malleshwaram
+Chitale Xpress,Mumbai,Prabhadevi,Beverages,4.3,4.3,4.3,0,108,108.71028037383178,107,chitale xpress beverages mumbai prabhadevi
+Choice Only Veg,Pune,Fatima Nagar,Chinese,4.1,4.2,4.15,148,0,152.4673913043478,184,choice only veg chinese pune fatima nagar
+Chops 'N' Woks,Jaipur,Raja Park,Beverages,3.911782786885246,3.911782786885246,3.911782786885246,0,0,240.0,82,chops 'n' woks beverages jaipur raja park
+Chote Nawab,Mumbai,Chembur,Sichuan,4.0,3.6,3.8,668,0,260.99652777777777,288,chote nawab sichuan mumbai chembur
+Chotu's The Food People,Hyderabad,Ghansi Bazaar,Biryani,3.7,3.7,3.7,64,0,107.47328244274809,131,chotu's the food people biryani hyderabad ghansi bazaar
+Choudhary Dhaba,Jaipur,Khatipura Road,Chinese,3.4,3.9,3.65,427,0,139.45077720207254,193,choudhary dhaba chinese jaipur khatipura road
+Coffee Cream,Hyderabad,Ghansi Bazaar,Chinese,3.2,4.0,3.6,42,0,166.63636363636363,88,coffee cream chinese hyderabad ghansi bazaar
+Copper Chocs,Pune,MG Road,Desserts,3.4,4.1,3.75,34,148,463.07428571428574,7,copper chocs desserts pune mg road
+Courtallam Border Rahmath Kadai,Chennai,T. Nagar,Biryani,4.0,4.0,4.0,904,0,235.74468085106383,94,courtallam border rahmath kadai biryani chennai t. nagar
+Cream Craver,Pune,Camp Area,Beverages,4.1,4.2,4.15,0,0,202.41517786561266,253,cream craver beverages pune camp area
+Cream Stone Ice Cream,Hyderabad,Begum Bazaar,Desserts,4.1,4.3,4.199999999999999,133,0,248.61176470588236,85,cream stone ice cream desserts hyderabad begum bazaar
+Crystal Restaurant & Bar,Hyderabad,Nallakunta,Biryani,4.2,3.9,4.05,697,0,294.7029702970297,202,crystal restaurant & bar biryani hyderabad nallakunta
+Cups & Cones,Kochi,Vyttila,Beverages,4.1,4.0,4.05,70,0,175.984,125,cups & cones beverages kochi vyttila
+Dadar Social,Mumbai,Dadar West,Beverages,4.3,4.0,4.15,244,193,354.5348837209302,86,dadar social beverages mumbai dadar west
+Delhi Dhaba,Chennai,Gopalapuram,Beverages,3.0,3.8,3.4,6,23,283.65546218487395,119,delhi dhaba beverages chennai gopalapuram
+Delhi Zaika,Mumbai,Mahim,Beverages,3.8,3.6,3.7,327,0,430.41515151515154,330,delhi zaika beverages mumbai mahim
+Dimsum Momo Express,Mumbai,Chembur,Chinese,3.9,3.8,3.8499999999999996,0,3,222.66145833333334,192,dimsum momo express chinese mumbai chembur
+Dindigul Thalappakatti,Kochi,Panampilly Nagar,Beverages,4.0,4.0,4.0,1,0,334.9170833333334,120,dindigul thalappakatti beverages kochi panampilly nagar
+Dindigul Veetu Kalyanam,Chennai,Egmore,Biryani,3.5,3.5,3.5,0,601,195.57575757575756,33,dindigul veetu kalyanam biryani chennai egmore
+Dine Hill,Hyderabad,Masab Tank,Chinese,4.1,3.9,4.0,0,0,309.8490566037736,106,dine hill chinese hyderabad masab tank
+Dip N Bite,Jaipur,Tonk Phatak,Beverages,3.6,3.9,3.75,9,361,136.51785714285714,56,dip n bite beverages jaipur tonk phatak
+Domino's Pizza,Bangalore,MG Road,"Desserts, Fast Food",3.5,4.2,3.85,86,0,304.8872300469484,213,"domino's pizza desserts, fast food bangalore mg road"
+Doner King,Hyderabad,Malakpet,Fast Food,3.9,4.2,4.05,39,0,165.11428571428573,35,doner king fast food hyderabad malakpet
+Donut Factory,Kochi,Panampilly Nagar,Beverages,3.9,4.1,4.0,381,0,236.20437956204378,137,donut factory beverages kochi panampilly nagar
+Down Town Restaurant & Cafeteria,Hyderabad,Masab Tank,Beverages,3.911782786885246,3.911782786885246,3.911782786885246,0,0,160.9090909090909,11,down town restaurant & cafeteria beverages hyderabad masab tank
+Dream Cutlets,Kochi,Fort Kochi,Fast Food,4.6,4.6,4.6,0,449,52.81818181818182,22,dream cutlets fast food kochi fort kochi
+Dum Safar Biryani,Mumbai,Dadar Shivaji Park,Desserts,3.9,3.9,3.9,0,79,694.0333333333333,60,dum safar biryani desserts mumbai dadar shivaji park
+EatFit,Chennai,Aminijikarai,Beverages,4.1,4.1,4.1,0,0,227.5810276679842,253,eatfit beverages chennai aminijikarai
+Eating Circles,Chennai,Alwarpet,South Indian,4.6,4.1,4.35,875,0,153.0,60,eating circles south indian chennai alwarpet
+Empire Plaza,Kochi,Marad,South Indian,3.3,3.6,3.45,69,0,221.21559633027522,218,empire plaza south indian kochi marad
+Evoke,Goa,Candolim,Thai,3.911782786885246,3.911782786885246,3.911782786885246,0,0,336.5,4,evoke thai goa candolim
+Exotica,Hyderabad,12th Square Building,Beverages,4.6,4.3,4.449999999999999,0,0,558.1818181818181,165,exotica beverages hyderabad 12th square building
+Express By ABs,Hyderabad,Malakpet,Biryani,3.8,3.8,3.8,0,112,281.4071264367816,87,express by abs biryani hyderabad malakpet
+FFC,Kochi,Palarivattom,Burger,3.7,3.7,3.7,2,951,298.7878787878788,66,ffc burger kochi palarivattom
+FPF  Coffee Wale Bhaiya,Jaipur,Pink City,Beverages,3.1,4.1,3.5999999999999996,9,914,148.43661971830986,71,fpf  coffee wale bhaiya beverages jaipur pink city
+FPF Coffee Wale Bhaiya,Jaipur,Vidhyadhar Nagar,Beverages,3.8,4.1,3.9499999999999997,12,388,154.5857142857143,70,fpf coffee wale bhaiya beverages jaipur vidhyadhar nagar
+Faasos - Wraps & Rolls,Hyderabad,Abids,"North Indian, Rolls",4.0,4.0,4.0,0,0,314.44217261904765,336,"faasos - wraps & rolls north indian, rolls hyderabad abids"
+Falooda Nation,Kochi,Kaloor,Beverages,3.6,3.9,3.75,12,0,197.4025974025974,77,falooda nation beverages kochi kaloor
+Fancy Ice Cream,Hyderabad,Charminar,Ice Cream,3.0,4.1,3.55,17,0,125.34883720930233,86,fancy ice cream ice cream hyderabad charminar
+Ferrara Pizzeria,Chennai,Nungambakkam,Fast Food,3.9,4.1,4.0,27,319,320.5652173913044,23,ferrara pizzeria fast food chennai nungambakkam
+Firangi Bake,Mumbai,Wadala,Mexican,4.1,4.1,4.1,0,737,342.64,75,firangi bake mexican mumbai wadala
+Firebirds,Kochi,Palarivattom,Beverages,4.3,4.3,4.3,1,80,190.75862068965517,29,firebirds beverages kochi palarivattom
+Firewood Pizza,Jaipur,Gopalpura,Italian,3.3,3.3,3.3,0,320,171.85849056603774,106,firewood pizza italian jaipur gopalpura
+Five Star Chicken,Chennai,Triplicane,Rolls,3.4,3.4,3.4,0,0,248.52941176470588,17,five star chicken rolls chennai triplicane
+Flavorsome Feasts,Jaipur,Vaishali Nagar,Beverages,3.7,3.7,3.7,0,0,273.6372549019608,102,flavorsome feasts beverages jaipur vaishali nagar
+Flavours Of China,Mumbai,Dadar West,Seafood,4.2,4.0,4.1,395,0,334.76666666666665,300,flavours of china seafood mumbai dadar west
+Food Adda,Mumbai,Lower Parel,Beverages,3.9,3.8,3.8499999999999996,30,36,213.03669724770643,109,food adda beverages mumbai lower parel
+Food Darzee,Mumbai,Lower Parel,Biryani,3.7,3.7,3.7,0,309,353.8125,64,food darzee biryani mumbai lower parel
+Food Track,Hyderabad,Charminar,Beverages,4.3,4.1,4.199999999999999,16,0,124.62025316455696,79,food track beverages hyderabad charminar
+Francescos Pizzeria,Mumbai,Dadar West,Fast Food,3.9,3.9,3.9,0,329,495.9230769230769,52,francescos pizzeria fast food mumbai dadar west
+FreshMenu,Bangalore,Richmond Road,Chinese,3.9,3.9,3.9,0,0,257.79228486646883,337,freshmenu chinese bangalore richmond road
+Fried Chicken Destination,Pune,Kothrud,Fast Food,3.8,4.1,3.9499999999999997,31,0,361.0975609756098,41,fried chicken destination fast food pune kothrud
+Friedisthan,Jaipur,Raja Park,Beverages,4.1,4.1,4.1,0,0,283.6913286713287,143,friedisthan beverages jaipur raja park
+Fuel Up,Mumbai,Khar,Beverages,4.0,4.2,4.1,102,0,240.28571428571428,119,fuel up beverages mumbai khar
+Game Of Spices,Jaipur,Mansarovar,Sichuan,4.3,3.7,4.0,88,0,326.06481481481484,216,game of spices sichuan jaipur mansarovar
+Ganesh Bhojnalaya,Jaipur,Lal Kothi,North Indian,3.5,4.1,3.8,460,0,109.8125,64,ganesh bhojnalaya north indian jaipur lal kothi
+Garden Vada Pav Centre,Pune,Camp Area,Beverages,3.6,4.3,3.95,18,0,160.8181818181818,11,garden vada pav centre beverages pune camp area
+Gelatica Gelato - Ice Cream,Hyderabad,Narayanguda,Desserts,3.9,3.9,3.9,0,203,99.0,18,gelatica gelato - ice cream desserts hyderabad narayanguda
+George Restaurant,Pune,Camp Area,Beverages,3.9,4.0,3.95,0,0,300.8857142857143,175,george restaurant beverages pune camp area
+Ghungroo Seth Vada Pav Company,Jaipur,Crystal Palm Mall,Fast Food,4.2,4.2,4.2,0,0,83.23076923076923,13,ghungroo seth vada pav company fast food jaipur crystal palm mall
+Go Biryan,Mumbai,Lower Parel,Rolls,3.9,3.9,3.9,0,0,412.34876190476194,105,go biryan rolls mumbai lower parel
+Go Grill,Chennai,Arumbakkam,BBQ,3.0,4.2,3.6,0,205,200.2233009708738,103,go grill bbq chennai arumbakkam
+Goa'rmet By The Tiffin Factory,Goa,Panaji,Desserts,3.911782786885246,3.911782786885246,3.911782786885246,0,14,218.8188976377953,127,goa'rmet by the tiffin factory desserts goa panaji
+Gokul Oottupura,Kochi,Pallimukku,Shake,4.0,4.0,4.0,73,0,170.1769230769231,130,gokul oottupura shake kochi pallimukku
+Gokul Refreshment,Mumbai,Hill Road,Beverages,4.2,4.1,4.15,337,0,185.73529411764707,170,gokul refreshment beverages mumbai hill road
+Golden Dragon,Kochi,Ravipuram,Desserts,4.0,4.2,4.1,248,0,258.52232142857144,224,golden dragon desserts kochi ravipuram
+Goofy's Pizza,Jaipur,Raja Park,Pizza,3.6,3.6,3.6,0,94,207.6984126984127,63,goofy's pizza pizza jaipur raja park
+Govind Dosa,Hyderabad,Charminar,South Indian,4.4,3.5,3.95,997,0,91.42857142857143,56,govind dosa south indian hyderabad charminar
+Goyaan,Goa,Porvorim,Fast Food,3.911782786885246,3.911782786885246,3.911782786885246,0,0,165.31914893617022,47,goyaan fast food goa porvorim
+Grameen Kulfi,Kochi,Panampilly Nagar,Desserts,4.3,4.3,4.3,0,88,102.79222222222222,27,grameen kulfi desserts kochi panampilly nagar
+Grand Bawarchi Restaurant,Hyderabad,Falaknuma,Kebab,4.2,4.2,4.2,423,0,344.2857142857143,63,grand bawarchi restaurant kebab hyderabad falaknuma
+Grand Hotel,Hyderabad,Abids,Beverages,4.2,4.1,4.15,0,0,201.40883977900552,181,grand hotel beverages hyderabad abids
+Great Indian Khichdi by EatFit,Chennai,Aminijikarai,Beverages,4.0,4.0,4.0,0,676,174.55223880597015,67,great indian khichdi by eatfit beverages chennai aminijikarai
+Grill A Delics,Chennai,Washermenpet,Beverages,4.1,3.8,3.9499999999999997,142,303,253.67175572519085,131,grill a delics beverages chennai washermenpet
+Grillin' It,Goa,Porvorim,Biryani,3.9,3.5,3.7,10,45,283.2716049382716,81,grillin' it biryani goa porvorim
+Gusto Pizza,Chennai,Mylapore,Fast Food,3.8,3.8,3.8,0,77,262.61224489795916,98,gusto pizza fast food chennai mylapore
+HRX by EatFit,Mumbai,Lower Parel,Salad,4.3,4.3,4.3,0,144,281.1363636363636,66,hrx by eatfit salad mumbai lower parel
+Haji Ebrahim,Kochi,Kaloor,Juices,3.8,4.1,3.9499999999999997,49,0,108.0,45,haji ebrahim juices kochi kaloor
+Haka,Mumbai,Khar,Sichuan,3.9,3.9,3.9,0,804,307.70875,72,haka sichuan mumbai khar
+Harishankar Veg Restro,Jaipur,Raja Park,Beverages,3.8,4.1,3.9499999999999997,273,0,189.31330472103005,233,harishankar veg restro beverages jaipur raja park
+Hello Burger's,Mumbai,Kurla,Sichuan,4.0,4.0,4.0,0,83,109.27472527472527,91,hello burger's sichuan mumbai kurla
+Hil Pizza,Jaipur,C Scheme,Beverages,3.1,3.9,3.5,5,479,234.3125,48,hil pizza beverages jaipur c scheme
+Hot N Spicy,Mumbai,Worli,Sichuan,3.6,3.6,3.6,0,0,129.21875,64,hot n spicy sichuan mumbai worli
+Hotel Nayaab,Hyderabad,Charminar,Beverages,4.3,4.0,4.15,540,0,270.8301886792453,53,hotel nayaab beverages hyderabad charminar
+Hotel Paramount,Chennai,Kilpauk,Beverages,4.1,4.2,4.15,975,0,209.8318181818182,220,hotel paramount beverages chennai kilpauk
+Hotel Rumaan,Hyderabad,Charminar,North Indian,4.1,4.1,4.1,0,115,197.77551020408163,49,hotel rumaan north indian hyderabad charminar
+Hotel Sennthur,Chennai,Anna Salai,Beverages,3.8,4.2,4.0,171,0,135.94535519125682,183,hotel sennthur beverages chennai anna salai
+Hotel Shadab,Hyderabad,Ghansi Bazaar,Beverages,4.3,4.1,4.199999999999999,0,0,291.61764705882354,68,hotel shadab beverages hyderabad ghansi bazaar
+Hotel Shubham Prestige,Hyderabad,Saroor Nagar,Beverages,3.5,3.8,3.65,57,0,224.28301886792454,212,hotel shubham prestige beverages hyderabad saroor nagar
+Hotel Swagath Grand,Hyderabad,Meerpet,Beverages,4.2,4.0,4.1,495,0,224.6206896551724,203,hotel swagath grand beverages hyderabad meerpet
+Hotel Topform,Kochi,Thopumpady,Shake,3.9,3.9,3.9,0,0,228.16551724137932,145,hotel topform shake kochi thopumpady
+Hoy Punjab,Kochi,Kacheripady,Beverages,4.3,3.7,4.0,163,596,462.25315789473683,114,hoy punjab beverages kochi kacheripady
+Hundo Pizza,Mumbai,Khar,American,4.1,4.1,4.1,0,0,301.0975609756098,41,hundo pizza american mumbai khar
+Hyderabadi Laziz,Pune,Karve Nagar,Hyderabadi,3.8,3.5,3.65,74,0,367.4166666666667,48,hyderabadi laziz hyderabadi pune karve nagar
+Ibrahim Biriyani,Chennai,Kilpauk,Kebab,3.8,4.0,3.9,41,0,105.0,6,ibrahim biriyani kebab chennai kilpauk
+Imperial Bakery - Since 1955,Pune,East Street,Bakery,3.911782786885246,3.911782786885246,3.911782786885246,0,3,51.3472,25,imperial bakery - since 1955 bakery pune east street
+Indira Darshini,Hyderabad,Khairatabad,North Indian,4.1,4.0,4.05,131,0,120.3953488372093,86,indira darshini north indian hyderabad khairatabad
+Iqbal Cafe,Hyderabad,Charminar,Biryani,3.1,4.3,3.7,12,0,117.90322580645162,31,iqbal cafe biryani hyderabad charminar
+Istanbul,Hyderabad,Malakpet,Wraps,4.3,4.3,4.3,236,0,165.0,29,istanbul wraps hyderabad malakpet
+Italian Bay,Mumbai,Bandra Kurla Complex,Beverages,4.2,4.2,4.2,0,911,312.1111111111111,117,italian bay beverages mumbai bandra kurla complex
+Italian Pizzeria,Hyderabad,Mehdipatnam,Shake,4.0,3.5,3.75,325,0,177.12962962962962,162,italian pizzeria shake hyderabad mehdipatnam
+JBT Jaipur Burger Truck,Jaipur,Vaishali Nagar,Fast Food,3.9,4.2,4.05,15,0,200.92857142857142,84,jbt jaipur burger truck fast food jaipur vaishali nagar
+JMD Bakery & Fast Food,Jaipur,Durgapura,Beverages,3.6,4.2,3.9000000000000004,8,0,130.2972972972973,148,jmd bakery & fast food beverages jaipur durgapura
+Jai Bhavani Snacks Center,Pune,Katraj,Beverages,3.5,4.3,3.9,5,0,40.5,10,jai bhavani snacks center beverages pune katraj
+Jal Mahal Ice Cream Parlour,Jaipur,MI Road,Beverages,4.1,4.4,4.25,848,0,197.34234234234233,222,jal mahal ice cream parlour beverages jaipur mi road
+Jango'z,Chennai,Royapuram,Fast Food,3.9,3.6,3.75,7,674,374.2363095238095,84,jango'z fast food chennai royapuram
+Jhakas Family Restaurant,Mumbai,Wadala,Sichuan,3.7,3.7,3.7,0,668,353.43145161290323,248,jhakas family restaurant sichuan mumbai wadala
+Jimis Burger,Mumbai,Pali Hill,Beverages,4.3,4.2,4.25,529,859,258.025,80,jimis burger beverages mumbai pali hill
+Joshis Masala Mantra,Goa,Panaji,Sichuan,3.9,3.9,3.9,0,132,232.2549019607843,153,joshis masala mantra sichuan goa panaji
+Jubilee Restaurant,Goa,Panaji,Chinese,3.911782786885246,3.911782786885246,3.911782786885246,0,0,133.88888888888889,81,jubilee restaurant chinese goa panaji
+Jugos,Kochi,Palluruthy,Beverages,4.0,4.0,4.0,2,477,133.15068493150685,73,jugos beverages kochi palluruthy
+Juicy,Kochi,Thopumpady,Desserts,4.0,4.3,4.15,0,269,112.1864406779661,59,juicy desserts kochi thopumpady
+Junior Kuppanna,Chennai,Nungambakkam,Beverages,3.4,3.6,3.5,108,0,350.2686567164179,134,junior kuppanna beverages chennai nungambakkam
+Juno's Pizza - Baking Fresh Since 1974,Mumbai,Lower Parel,Beverages,4.2,3.8,4.0,0,0,284.125,96,juno's pizza - baking fresh since 1974 beverages mumbai lower parel
+Just A Sec,Jaipur,Mansarovar,North Indian,3.6,3.6,3.6,0,512,153.8490566037736,53,just a sec north indian jaipur mansarovar
+KFC,Bangalore,Brigade Road,"Beverages, Fast Food",4.0,3.8,3.85,159,660,350.2740476190476,168,"kfc beverages, fast food bangalore brigade road"
+KGN Xprs,Pune,Aundh,Sichuan,3.9,3.9,3.9,0,940,237.3875,80,kgn xprs sichuan pune aundh
+KMS Hakkim Kalyana Biriyani,Chennai,Nungambakkam,Beverages,2.9,3.7,3.3,17,819,307.06810035842295,279,kms hakkim kalyana biriyani beverages chennai nungambakkam
+KS Bakers,Hyderabad,Narayanguda,Burger,3.2,4.0,3.6,10,0,226.87387387387386,111,ks bakers burger hyderabad narayanguda
+Kanha,Jaipur,C Scheme,Desserts,3.8,4.2,4.0,872,0,165.0986574074074,432,kanha desserts jaipur c scheme
+Kanji,Jaipur,Sindhi Camp,South Indian,3.8,4.3,4.05,435,0,213.87048192771084,166,kanji south indian jaipur sindhi camp
+Kannu Ki Chai,Pune,FC Road,Coffee,3.5,4.2,3.85,11,541,157.79616279069768,86,kannu ki chai coffee pune fc road
+Karachi Bakery,Hyderabad,Nampally,Fast Food,3.8,3.8,3.8,0,332,288.79072,125,karachi bakery fast food hyderabad nampally
+Karachi Sweet Mart,Pune,Camp Area,Fast Food,3.9,3.9,3.9,0,730,389.44565217391306,184,karachi sweet mart fast food pune camp area
+Keifer,Chennai,Purasavakkam,Shake,3.7,3.7,3.7,0,140,154.3706896551724,232,keifer shake chennai purasavakkam
+Keventers - Milkshakes & Desserts,Pune,The Pavillion,Desserts,3.4,4.3,3.8499999999999996,22,910,219.80024271844658,206,keventers - milkshakes & desserts desserts pune the pavillion
+Khalids Biriyani,Chennai,T. Nagar,Chinese,3.5,3.8,3.65,31,0,522.8314545454546,110,khalids biriyani chinese chennai t. nagar
+Khandelwal Dhaba Purana Wala,Jaipur,Sikar Road,South Indian,3.9,4.0,3.95,353,0,179.17391304347825,92,khandelwal dhaba purana wala south indian jaipur sikar road
+Kim Ling Chinese Restaurant,Chennai,Anna Nagar East,Beverages,4.3,4.3,4.3,539,0,294.5740740740741,270,kim ling chinese restaurant beverages chennai anna nagar east
+King Of Burger,Pune,Sinhgad Road,Beverages,3.7,3.7,3.7,0,0,158.0,61,king of burger beverages pune sinhgad road
+Kingdoms Pizza,Jaipur,Amer Road,Fast Food,3.5,3.7,3.6,8,592,180.75,100,kingdoms pizza fast food jaipur amer road
+Kritunga,Hyderabad,Himayath Nagar,Beverages,3.1,3.7,3.4000000000000004,31,0,269.0,10,kritunga beverages hyderabad himayath nagar
+Kunafa House,Chennai,Nungambakkam,Desserts,3.9,4.2,4.05,62,746,345.5882352941176,17,kunafa house desserts chennai nungambakkam
+Kunafa World,Kochi,Panampilly Nagar,Desserts,3.8,4.4,4.1,11,751,448.57142857142856,35,kunafa world desserts kochi panampilly nagar
+Kwality Walls Frozen Dessert and Ice Cream Shop,Hyderabad,Kacheguda,Desserts,4.5,4.5,4.5,0,553,165.6086956521739,92,kwality walls frozen dessert and ice cream shop desserts hyderabad kacheguda
+La Pino'z Pizza,Hyderabad,Himayath Nagar,Fast Food,3.9,4.0,3.95,26,505,210.78367346938776,245,la pino'z pizza fast food hyderabad himayath nagar
+Lassi Shop,Hyderabad,Malakpet,Desserts,3.4,4.1,3.75,14,662,109.5891472868217,129,lassi shop desserts hyderabad malakpet
+Late Night Biryani,Hyderabad,Saroor Nagar,North Indian,3.4,3.4,3.4,0,0,203.77551020408163,49,late night biryani north indian hyderabad saroor nagar
+Laziz Chicken Food Restaurant,Jaipur,Jhotwara,Chinese,4.0,3.8,3.9,335,0,204.88571428571427,70,laziz chicken food restaurant chinese jaipur jhotwara
+LeanCrust Pizza - ThinCrust Experts,Mumbai,Sion,Beverages,4.5,4.5,4.5,0,238,408.02912621359224,103,leancrust pizza - thincrust experts beverages mumbai sion
+Leon's Burgers & Wings,Hyderabad,Himayath Nagar,Fast Food,3.3,4.2,3.75,20,0,211.3568686868687,99,leon's burgers & wings fast food hyderabad himayath nagar
+Let's Eat Bakers,Kochi,Panampilly Nagar,Sandwich,4.4,4.4,4.4,0,0,185.45112781954887,133,let's eat bakers sandwich kochi panampilly nagar
+Lina's Brickoven Newyork Pizzeria,Chennai,T. Nagar,Fast Food,4.4,4.1,4.25,72,968,561.8161764705883,136,lina's brickoven newyork pizzeria fast food chennai t. nagar
+Little Hut,Chennai,Anna Nagar West,BBQ,3.6,4.0,3.8,177,570,237.88938053097345,226,little hut bbq chennai anna nagar west
+Little India,Chennai,Alwarpet,Biryani,4.0,4.2,4.1,32,340,225.8294930875576,217,little india biryani chennai alwarpet
+Little Italy,Chennai,Nungambakkam,Pizza,4.4,3.8,4.1,349,0,446.2621359223301,206,little italy pizza chennai nungambakkam
+Liza Restaurant,Chennai,Vepery,Beverages,3.9,4.1,4.0,141,0,202.2005277044855,379,liza restaurant beverages chennai vepery
+Louis Burger,Hyderabad,Banjara Hills,Fast Food,4.1,4.1,4.1,0,774,348.4189189189189,74,louis burger fast food hyderabad banjara hills
+Lucky Multicuisine Restaurant,Hyderabad,Somajiguda,Mandi,4.2,3.8,4.0,692,0,224.57983193277312,238,lucky multicuisine restaurant mandi hyderabad somajiguda
+Lucky Restaurant,Hyderabad,Saroor Nagar,Beverages,4.1,4.0,4.05,0,0,229.82456140350877,114,lucky restaurant beverages hyderabad saroor nagar
+MH 12 Pav Bhaji,Pune,Rasta Peth,Shake,3.9,4.1,4.0,262,0,185.71466666666666,45,mh 12 pav bhaji shake pune rasta peth
+MOJO Pizza - 2X Toppings,Pune,Bund Garden Road,Beverages,4.3,4.3,4.3,0,0,345.0731707317073,123,mojo pizza - 2x toppings beverages pune bund garden road
+MRCB,Hyderabad,Dilsukhnagar,Mughlai,3.2,3.2,3.2,0,129,133.14285714285714,49,mrcb mughlai hyderabad dilsukhnagar
+MS Bakery,Hyderabad,Attapur,Bakery,4.1,4.1,4.1,0,0,159.9375,96,ms bakery bakery hyderabad attapur
+MS Bakery & Sweets,Hyderabad,Falaknuma,Pizza,4.2,4.2,4.2,0,0,177.71296296296296,108,ms bakery & sweets pizza hyderabad falaknuma
+MS Mandi & Shawarma,Hyderabad,Charminar,Beverages,3.8,3.9,3.8499999999999996,33,0,234.484375,128,ms mandi & shawarma beverages hyderabad charminar
+Madheena Fried Chicken,Kochi,Elamakkara,Biryani,3.8,3.8,3.8,0,203,451.8,10,madheena fried chicken biryani kochi elamakkara
+Madurai Pandian Mess,Chennai,Royapettah,BBQ,3.3,4.0,3.65,166,0,145.679012345679,81,madurai pandian mess bbq chennai royapettah
+Madurai Sri Thevar Hotel,Chennai,Parrys,South Indian,3.8,3.7,3.75,112,0,164.68354430379748,79,madurai sri thevar hotel south indian chennai parrys
+Mainland China,Mumbai,Lower Parel,Sichuan,4.1,4.1,4.1,0,643,556.8029931972789,147,mainland china sichuan mumbai lower parel
+Maiz Mexican Kitchen,Mumbai,Lower Parel,Salad,4.0,4.0,4.0,0,0,286.6823529411765,85,maiz mexican kitchen salad mumbai lower parel
+Manchatti Restaurant,Kochi,Ernakulam City,Desserts,3.0,3.0,3.0,4,279,292.0952380952381,63,manchatti restaurant desserts kochi ernakulam city
+Mandi Town,Hyderabad,Khairatabad,Kebab,3.4,3.8,3.5999999999999996,5,535,638.75,24,mandi town kebab hyderabad khairatabad
+Marhaba Shawarma & Wraps,Hyderabad,Himayath Nagar,Shake,3.7,4.0,3.85,26,587,195.84375,32,marhaba shawarma & wraps shake hyderabad himayath nagar
+Marky Momos,Jaipur,C Scheme,Beverages,3.1,4.1,3.5999999999999996,16,0,505.47386454183265,251,marky momos beverages jaipur c scheme
+Marrakesh,Pune,FC Road,Beverages,3.8,3.9,3.8499999999999996,0,0,230.13432835820896,134,marrakesh beverages pune fc road
+Mataam Al Yamani,Hyderabad,Lakdikapul,Mandi,3.7,3.7,3.7,144,0,304.2856756756757,37,mataam al yamani mandi hyderabad lakdikapul
+Mathsya,Chennai,Egmore,Shake,4.2,4.1,4.15,0,0,179.5082644628099,242,mathsya shake chennai egmore
+Mayur Pan House,Hyderabad,Abids,Ice Cream,4.3,3.9,4.1,564,0,127.04375,160,mayur pan house ice cream hyderabad abids
+McDonald's,Hyderabad,MPM Mall,"Beverages, Fast Food",3.5,3.9,3.65,214,0,283.4660859728507,442,"mcdonald's beverages, fast food hyderabad mpm mall"
+Meal Bowl,Mumbai,Lower Parel,Sichuan,4.0,4.0,4.0,0,0,229.11206896551724,116,meal bowl sichuan mumbai lower parel
+Mealful Rolls - India's Biggest Rolls,Mumbai,Wadala,Beverages,4.0,4.0,4.0,0,556,230.27272727272728,55,mealful rolls - india's biggest rolls beverages mumbai wadala
+Meat And Eat,Chennai,Royapettah,"Beverages, Desserts",3.4,3.7,3.5,77,0,242.17905405405406,296,"meat and eat beverages, desserts chennai royapettah"
+Meera's Kitchen,Kochi,MG Road,Biryani,3.1,3.2,3.1500000000000004,9,0,228.3139534883721,86,meera's kitchen biryani kochi mg road
+Meghana Foods,Bangalore,Residency Road,Seafood,4.3,4.4,4.35,0,0,270.9695689655172,116,meghana foods seafood bangalore residency road
+Mehfil,Hyderabad,Narayanguda,North Indian,4.1,4.0,4.05,0,0,229.2012987012987,154,mehfil north indian hyderabad narayanguda
+Meltyway,Kochi,Mattancherry,Fast Food,4.2,3.5,3.85,68,657,157.72027972027973,143,meltyway fast food kochi mattancherry
+Mini Punjabi,Jaipur,Sodala,Mughlai,4.0,3.7,3.85,69,0,143.67796610169492,59,mini punjabi mughlai jaipur sodala
+Mohammedia Shawarma,Hyderabad,Saroor Nagar,Fast Food,3.4,3.8,3.5999999999999996,2,18,155.71428571428572,7,mohammedia shawarma fast food hyderabad saroor nagar
+Momo Guy,Mumbai,Worli,Momos,3.4,3.4,3.4,0,535,187.57142857142858,133,momo guy momos mumbai worli
+Monginis,Pune,Sadashiv Peth,Bakery,4.4,4.4,4.4,0,478,506.6666666666667,15,monginis bakery pune sadashiv peth
+Mother's Kitchen,Pune,Kothrud,Biryani,4.1,3.9,4.0,93,0,274.43514644351467,239,mother's kitchen biryani pune kothrud
+Mr. Burger,Chennai,Parrys,Fast Food,3.7,3.9,3.8,0,137,188.67605633802816,71,mr. burger fast food chennai parrys
+Mughal Restaurant,Hyderabad,Lakdikapul,Desserts,3.8,4.1,3.9499999999999997,258,0,184.66666666666666,99,mughal restaurant desserts hyderabad lakdikapul
+Mughlai Affair,Mumbai,Chembur,Rolls,3.6,3.6,3.6,0,0,202.43027888446215,251,mughlai affair rolls mumbai chembur
+Mum Mai,Goa,Panaji,Fast Food,4.1,4.1,4.1,0,131,167.0,40,mum mai fast food goa panaji
+NH1 Bowls - Highway To North,Pune,Dhole Patil Road,Beverages,4.3,4.3,4.3,0,727,237.6,80,nh1 bowls - highway to north beverages pune dhole patil road
+NIC Ice Creams,Hyderabad,Narayanguda,Desserts,4.5,4.5,4.5,0,0,185.86327433628318,113,nic ice creams desserts hyderabad narayanguda
+NOTO - Healthy Ice Cream,Pune,Kothrud,Desserts,4.4,4.4,4.4,0,203,221.25,52,noto - healthy ice cream desserts pune kothrud
+NR - Navaratna Udupi Pure Veg,Goa,Porvorim,South Indian,3.8,3.8,3.8,2,418,180.03187250996015,251,nr - navaratna udupi pure veg south indian goa porvorim
+Naadbramha Idli,Mumbai,Kurla,South Indian,3.8,4.0,3.9,0,0,86.0,10,naadbramha idli south indian mumbai kurla
+Namaste Chai,Goa,Porvorim,Ice Cream,3.9,3.9,3.9,0,590,75.89322916666667,96,namaste chai ice cream goa porvorim
+Natural Ice Cream,Hyderabad,Himayath Nagar,Desserts,4.5,4.5,4.5,0,368,142.84354838709677,31,natural ice cream desserts hyderabad himayath nagar
+Navrang Restaurant,Chennai,Royapettah,Sichuan,3.8,3.9,3.8499999999999996,122,0,163.1584699453552,183,navrang restaurant sichuan chennai royapettah
+Nazeer Juice Center,Hyderabad,Charminar,Shake,2.9,4.2,3.55,5,0,143.52777777777777,36,nazeer juice center shake hyderabad charminar
+Nellikka Cloud Kitchen,Kochi,Kaloor,Kerala,4.3,4.3,4.3,0,0,65.15384615384616,13,nellikka cloud kitchen kerala kochi kaloor
+Nellikka Restaurant,Kochi,Kadavanthra,Kerala,3.6,4.4,4.0,2,0,70.75,16,nellikka restaurant kerala kochi kadavanthra
+New Bombay Sandwich Burger & Pizza,Pune,Vishrantwadi,Fast Food,3.6,3.6,3.6,0,479,100.5,52,new bombay sandwich burger & pizza fast food pune vishrantwadi
+New Grand Restaurant & Bakery,Hyderabad,Begum Bazaar,Bakery,4.0,4.0,4.0,129,0,130.37662337662337,231,new grand restaurant & bakery bakery hyderabad begum bazaar
+New King Safina Hotel,Hyderabad,Charminar,North Indian,3.8,4.3,4.05,146,0,204.68421052631578,38,new king safina hotel north indian hyderabad charminar
+New Pankaj - Sandwich & Pani Puri,Mumbai,Matunga East,Beverages,4.2,4.2,4.2,0,0,192.18103448275863,116,new pankaj - sandwich & pani puri beverages mumbai matunga east
+New Santosh Dhaba,Hyderabad,Begum Bazaar,Beverages,4.2,3.7,3.95,209,0,176.6103896103896,154,new santosh dhaba beverages hyderabad begum bazaar
+Nimrah Restaurant,Hyderabad,Nampally,Desserts,3.9,4.1,4.0,72,857,247.0679012345679,162,nimrah restaurant desserts hyderabad nampally
+Nino Burgers,Mumbai,Dadar West,Fast Food,4.0,4.0,4.0,0,296,329.74468085106383,47,nino burgers fast food mumbai dadar west
+Nxtdoor,Chennai,Purasavakkam,Sichuan,3.9,3.9,3.9,0,0,168.28803191489362,188,nxtdoor sichuan chennai purasavakkam
+Ohh Taco,Jaipur,Gopalpura,Shake,3.3,3.3,3.3,0,37,139.47154471544715,123,ohh taco shake jaipur gopalpura
+One By Two,Mumbai,Prabhadevi,Momos,4.0,4.0,4.0,0,0,227.85245901639345,61,one by two momos mumbai prabhadevi
+Onesta,Hyderabad,Banjara Hills,Beverages,4.3,3.6,3.95,0,197,237.4344262295082,305,onesta beverages hyderabad banjara hills
+Ovenfresh,Mumbai,Dadar Shivaji Park,Beverages,4.4,4.3,4.35,0,0,295.5173029045643,241,ovenfresh beverages mumbai dadar shivaji park
+Ovenstory Pizza,Hyderabad,Abids,Fast Food,4.1,4.1,4.1,0,0,402.9832484076433,157,ovenstory pizza fast food hyderabad abids
+Oyalo Pizza,Chennai,Triplicane,Desserts,3.6,3.6,3.6,0,520,417.65675675675675,37,oyalo pizza desserts chennai triplicane
+Oye Kiddan,Mumbai,Matunga East,Desserts,3.4,3.4,3.4,0,0,152.89763779527559,127,oye kiddan desserts mumbai matunga east
+P60,Kochi,Panampilly Nagar,Desserts,4.3,4.0,4.15,486,0,215.36666666666667,30,p60 desserts kochi panampilly nagar
+Pai Brothers 36 Varities Of Dosa,Kochi,Kadavanthra,Kerala,3.7,4.0,3.85,138,0,141.09756097560975,164,pai brothers 36 varities of dosa kerala kochi kadavanthra
+Pai Brothers Fast Food,Kochi,MG Road,Street Food,4.1,4.2,4.15,528,0,144.61988304093566,171,pai brothers fast food street food kochi mg road
+Pakiza Restaurant,Goa,Panaji,North Indian,3.8,3.7,3.75,19,204,162.82926829268294,41,pakiza restaurant north indian goa panaji
+Pandit Pav Bhaji,Jaipur,C Scheme,South Indian,3.6,3.6,3.6,137,0,106.66666666666667,21,pandit pav bhaji south indian jaipur c scheme
+Papadams Blue,Hyderabad,Kothapet,Desserts,4.0,3.9,3.95,625,0,299.62626262626264,198,papadams blue desserts hyderabad kothapet
+Paputty's Valsa Cafe,Kochi,Kacheripady,Chinese,4.0,4.0,4.0,62,0,130.40740740740742,27,paputty's valsa cafe chinese kochi kacheripady
+Paradise Biryani,Hyderabad,Charminar Area,Desserts,3.7,3.5,3.6,46,0,383.0357142857143,28,paradise biryani desserts hyderabad charminar area
+Patil Misal,Goa,Porvorim,Maharashtrian,3.7,3.5,3.6,24,129,46.84615384615385,13,patil misal maharashtrian goa porvorim
+Payasam Kada - Taste Trees,Kochi,Palarivattom,Desserts,3.8,4.1,3.9499999999999997,35,0,166.66666666666666,3,payasam kada - taste trees desserts kochi palarivattom
+Peshawar,Hyderabad,Malakpet,Chinese,3.1,4.1,3.5999999999999996,4,540,334.76056338028167,71,peshawar chinese hyderabad malakpet
+Piazza Pizza By Little Italy,Pune,Camp Area,Fast Food,3.7,3.4,3.55,26,163,327.88421052631577,95,piazza pizza by little italy fast food pune camp area
+Pista House,Hyderabad,Charminar Area,Beverages,3.7,4.1,3.9,40,0,341.6707317073171,82,pista house beverages hyderabad charminar area
+Pista House - Premium Lounge,Hyderabad,Charminar Area,Beverages,3.1,4.1,3.5999999999999996,16,0,265.29824561403507,171,pista house - premium lounge beverages hyderabad charminar area
+Pista House Bakery,Hyderabad,Charminar,Beverages,4.3,4.3,4.3,0,0,560.0165289256198,121,pista house bakery beverages hyderabad charminar
+Pitaworks,Kochi,Kacheripady,Fast Food,3.6,4.1,3.8499999999999996,12,471,175.0,11,pitaworks fast food kochi kacheripady
+Pizza And Burger King,Jaipur,Brahmpuri,Beverages,3.9,3.7,3.8,4,839,211.66666666666666,96,pizza and burger king beverages jaipur brahmpuri
+Pizza Baker's,Jaipur,Raja Park,Pizza,4.2,4.0,4.1,29,0,242.82910447761196,67,pizza baker's pizza jaipur raja park
+Pizza Bar,Jaipur,Sodala,Fast Food,3.5,3.9,3.7,8,607,252.93509090909092,55,pizza bar fast food jaipur sodala
+Pizza Bites,Pune,Wadgaon Sheri,"Beverages, Fast Food",3.7,4.3,4.0,15,231,259.48344000000003,125,"pizza bites beverages, fast food pune wadgaon sheri"
+Pizza Hut,Hyderabad,Kacheguda,Beverages,3.5,3.9,3.65,271,0,300.49894117647057,255,pizza hut beverages hyderabad kacheguda
+Pizza Ricotta,Kochi,Thopumpady,Fast Food,2.5,2.5,2.5,0,7,301.8421052631579,19,pizza ricotta fast food kochi thopumpady
+Pizza Unlimited,Jaipur,Pink City,Beverages,3.0,3.6,3.3,14,0,142.23809523809524,84,pizza unlimited beverages jaipur pink city
+PizzaExpress,Mumbai,Wadala,Beverages,3.911782786885246,3.911782786885246,3.911782786885246,0,0,536.7484536082474,97,pizzaexpress beverages mumbai wadala
+Pizzaman,Kochi,Edappally,Beverages,2.8,4.0,3.4,7,479,344.61842105263156,76,pizzaman beverages kochi edappally
+Platform 65,Hyderabad,Dilsukhnagar,Beverages,4.0,4.0,4.0,924,0,286.6545454545454,220,platform 65 beverages hyderabad dilsukhnagar
+Poi & Rolls Adda,Goa,Panaji,Rolls,3.911782786885246,3.911782786885246,3.911782786885246,0,11,171.95454545454547,22,poi & rolls adda rolls goa panaji
+Pokket Cafe,Pune,Karve Nagar,Desserts,3.4,3.5,3.45,38,139,153.95209580838323,167,pokket cafe desserts pune karve nagar
+Ponnusamy Hotel,Chennai,Egmore,Beverages,3.4,3.7,3.55,127,0,237.6241610738255,149,ponnusamy hotel beverages chennai egmore
+Porkeato De Portico,Kochi,Palarivattom,South Indian,3.6,4.0,3.8,11,321,238.92857142857142,42,porkeato de portico south indian kochi palarivattom
+Potful - Claypot Biryanis,Chennai,Anna Nagar West,North Indian,4.2,4.2,4.2,0,0,502.741935483871,62,potful - claypot biryanis north indian chennai anna nagar west
+Potoba,Mumbai,Dadar West,Beverages,3.9,3.9,3.9,428,0,189.83561643835617,146,potoba beverages mumbai dadar west
+Punjabi Tadka,Jaipur,Malviya Nagar,Mughlai,3.8,3.8,3.8,196,0,200.61111111111111,126,punjabi tadka mughlai jaipur malviya nagar
+Quick Snacks,Kochi,Kadavanthra,Beverages,3.7,3.4,3.55,45,0,128.83050847457628,59,quick snacks beverages kochi kadavanthra
+RJ Chai Wala,Jaipur,Jhotwara,Street Food,4.1,4.1,4.1,0,267,49.51282051282051,78,rj chai wala street food jaipur jhotwara
+RK Pure Veg,Pune,Vishrantwadi,Sichuan,3.7,3.8,3.75,208,0,195.78980891719746,314,rk pure veg sichuan pune vishrantwadi
+RR62 - Cafe & Kitchen,Jaipur,Pink City,Beverages,4.2,3.8,4.0,177,0,206.16239316239316,117,rr62 - cafe & kitchen beverages jaipur pink city
+Raj Restaurant,Mumbai,Chembur,Biryani,3.8,4.1,3.9499999999999997,345,0,354.32761904761907,525,raj restaurant biryani mumbai chembur
+Raw Squeezed,Kochi,Vyttila,Salad,4.4,4.4,4.4,3,0,207.24719101123594,89,raw squeezed salad kochi vyttila
+Rawat Mishthan Bhandar,Jaipur,Sindhi Camp,Street Food,4.2,4.2,4.2,0,213,180.6480686695279,233,rawat mishthan bhandar street food jaipur sindhi camp
+Red Bucket Biryani,Hyderabad,Saroor Nagar,Biryani,4.1,4.1,4.1,0,100,1119.1818181818182,55,red bucket biryani biryani hyderabad saroor nagar
+Redaan Restaurant,Hyderabad,Charminar,North Indian,4.3,4.3,4.3,3,743,221.0990099009901,101,redaan restaurant north indian hyderabad charminar
+Reddy's Fast Food,Pune,Yerawada,Sichuan,3.5,3.9,3.7,82,0,209.7685185185185,108,reddy's fast food sichuan pune yerawada
+Reena Paul's Kitchen,Chennai,Anna Nagar West,Chinese,4.1,4.1,4.1,0,0,229.41216216216216,148,reena paul's kitchen chinese chennai anna nagar west
+Ritz Classic,Goa,Mall De Goa,Beverages,4.4,4.1,4.25,105,405,374.69895287958116,382,ritz classic beverages goa mall de goa
+Riyas Biriyani,Chennai,Purasavakkam,Fast Food,3.9,3.8,3.8499999999999996,5,960,125.4,25,riyas biriyani fast food chennai purasavakkam
+Rizo Resto,Kochi,Kacheripady,Shake,3.9,4.3,4.1,5,124,211.89473684210526,76,rizo resto shake kochi kacheripady
+Roll Point,Pune,Dhankawadi,Chinese,4.0,4.1,4.05,111,0,141.96581196581195,117,roll point chinese pune dhankawadi
+RollsKing,Jaipur,Raja Park,Beverages,4.2,4.2,4.2,0,229,215.5,48,rollsking beverages jaipur raja park
+Roop Basant Pavitra Bhojnalaya,Jaipur,Gopalbari,Beverages,3.2,3.9,3.55,126,0,122.0,84,roop basant pavitra bhojnalaya beverages jaipur gopalbari
+Roopali Veg,Pune,Bibvewadi,Beverages,3.6,4.2,3.9000000000000004,20,0,176.91977077363896,349,roopali veg beverages pune bibvewadi
+Rumaan Restaurant,Kochi,Kaloor,Beverages,3.4,3.7,3.55,14,0,145.53125,32,rumaan restaurant beverages kochi kaloor
+SLAY Coffee,Mumbai,Worli,Shake,3.9,3.9,3.9,0,0,237.91066666666666,60,slay coffee shake mumbai worli
+SP Burger,Mumbai,Chembur,Sichuan,3.9,4.1,4.0,130,0,93.43548387096774,62,sp burger sichuan mumbai chembur
+Sahara Family Restaurant,Mumbai,Chembur,Sichuan,3.3,3.8,3.55,4,507,342.6375545851528,229,sahara family restaurant sichuan mumbai chembur
+Sai Chaap Soya,Jaipur,Ajmer Highway,Rolls,3.8,3.4,3.5999999999999996,7,602,153.6794366197183,71,sai chaap soya rolls jaipur ajmer highway
+Salem RR Biriyani Unavagam,Chennai,Triplicane,Seafood,4.0,3.5,3.75,47,0,342.9166666666667,48,salem rr biriyani unavagam seafood chennai triplicane
+Salkara Xpress By Paragon Group,Kochi,Vyttila,South Indian,4.2,4.2,4.2,0,0,167.66666666666666,3,salkara xpress by paragon group south indian kochi vyttila
+Sam's Pork And Beef,Chennai,Anna Nagar East,Biryani,3.9,3.9,3.9,0,788,195.30434782608697,23,sam's pork and beef biryani chennai anna nagar east
+Samco,Chennai,Alwarpet,Beverages,3.8,4.2,4.0,634,0,281.5925925925926,324,samco beverages chennai alwarpet
+Sandwich Express,Pune,Koregaon Park,Beverages,4.2,4.2,4.2,0,0,129.61165048543688,103,sandwich express beverages pune koregaon park
+Sangeetha Veg Restaurant - Gandhi Irwin Road,Chennai,Egmore,Shake,3.8,4.1,3.9499999999999997,236,0,187.36495689655172,232,sangeetha veg restaurant - gandhi irwin road shake chennai egmore
+Santosh Dhaba,Hyderabad,Abids,Desserts,4.3,3.9,4.1,0,0,221.29794520547946,292,santosh dhaba desserts hyderabad abids
+Saparito Pizza,Pune,Sadashiv Peth,Beverages,4.2,4.2,4.2,0,384,198.55769230769232,52,saparito pizza beverages pune sadashiv peth
+Sardaar Ji Chicken Co.,Jaipur,Malviya Nagar,BBQ,2.8,3.6,3.2,10,0,324.4642857142857,168,sardaar ji chicken co. bbq jaipur malviya nagar
+Sarvi Restaurant,Hyderabad,Banjara Hills,Beverages,4.2,4.0,4.1,0,0,290.38461538461536,78,sarvi restaurant beverages hyderabad banjara hills
+Savoury Sea Shell,Chennai,Thousand Lights,Sichuan,4.0,4.1,4.05,848,0,345.55281690140845,568,savoury sea shell sichuan chennai thousand lights
+Scoops Ice Cream,Hyderabad,Charminar,Pizza,3.3,4.4,3.85,6,915,134.13329787234042,94,scoops ice cream pizza hyderabad charminar
+Sethi Bar-Be-Que,Jaipur,Bani Park,Rolls,4.0,4.0,4.0,0,0,338.5424836601307,153,sethi bar-be-que rolls jaipur bani park
+Shadaan Restaurant,Hyderabad,Chandrayanagutta,Hyderabadi,3.8,4.2,4.0,19,0,184.1358024691358,81,shadaan restaurant hyderabadi hyderabad chandrayanagutta
+Shah Ghouse Hotel & Restaurant,Hyderabad,Charminar,Desserts,4.2,4.2,4.2,0,0,327.50531400966184,207,shah ghouse hotel & restaurant desserts hyderabad charminar
+Shah Ghouse Special Shawarma,Hyderabad,Charminar,Beverages,4.3,4.1,4.199999999999999,156,0,139.4917355371901,242,shah ghouse special shawarma beverages hyderabad charminar
+Shap Food Restaurant,Kochi,Vyttila,Biryani,3.5,3.8,3.65,53,874,236.72131147540983,61,shap food restaurant biryani kochi vyttila
+Shawarma Daddy,Kochi,Edappally,Beverages,3.6,4.0,3.8,44,0,162.65555555555554,27,shawarma daddy beverages kochi edappally
+Shawarma Kings,Chennai,Anna Nagar East,Kebab,4.0,4.0,4.0,0,0,181.45454545454547,55,shawarma kings kebab chennai anna nagar east
+Sheikh Shawarma,Kochi,Kadavanthra,Kerala,3.7,3.7,3.7,3,220,183.3760683760684,117,sheikh shawarma kerala kochi kadavanthra
+Shero Home Food - Chettinad,Chennai,Vepery,Desserts,3.9,3.9,3.9,0,41,140.10071942446044,139,shero home food - chettinad desserts chennai vepery
+Sherton Restaurant,Hyderabad,Amberpet,Biryani,4.0,4.2,4.1,0,0,284.7647058823529,85,sherton restaurant biryani hyderabad amberpet
+Shivam Classic,Goa,Panaji,Beverages,3.911782786885246,3.911782786885246,3.911782786885246,0,3,174.55384615384617,195,shivam classic beverages goa panaji
+Shivsu Pizza,Mumbai,Chembur,Shake,3.7,3.8,3.75,16,330,136.4144144144144,111,shivsu pizza shake mumbai chembur
+Shobhaa Only Veg,Mumbai,Parel,Beverages,4.0,4.2,4.1,487,0,253.6008230452675,243,shobhaa only veg beverages mumbai parel
+Shofu - The Momo Man,Jaipur,Lal Kothi,Beverages,4.2,4.2,4.2,104,0,191.859375,64,shofu - the momo man beverages jaipur lal kothi
+Shree Konar Vilas,Chennai,Purasavakkam,Biryani,4.3,3.9,4.1,208,0,252.5,98,shree konar vilas biryani chennai purasavakkam
+Shree Santosh Family Dhaba,Hyderabad,Himayath Nagar,Beverages,4.1,4.1,4.1,182,0,220.21782178217822,202,shree santosh family dhaba beverages hyderabad himayath nagar
+Shri Shyam Bhature Wala,Jaipur,Vaishali Nagar,North Indian,4.2,4.2,4.2,0,0,105.95238095238095,21,shri shyam bhature wala north indian jaipur vaishali nagar
+Siddique Kabab Centre,Hyderabad,Tolichowki,Chinese,4.4,4.1,4.25,732,0,222.43243243243242,37,siddique kabab centre chinese hyderabad tolichowki
+Sijis Pizza Street,Kochi,Edappally,Fast Food,3.8,4.1,3.9499999999999997,41,0,353.8411290322581,62,sijis pizza street fast food kochi edappally
+Sip & Bite,Hyderabad,Malakpet,Beverages,3.5,3.8,3.65,14,175,158.62179487179486,156,sip & bite beverages hyderabad malakpet
+Slyce Pizza,Mumbai,Lower Parel,Fast Food,3.9,3.9,3.9,0,0,618.7318032786885,122,slyce pizza fast food mumbai lower parel
+Smokin' Joe's,Mumbai,Wadala,Sandwich,3.1,3.6,3.35,131,0,339.2842105263158,95,smokin' joe's sandwich mumbai wadala
+Sodhani Sweets And Namkeen,Jaipur,Gopalpura,Street Food,3.7,4.3,4.0,8,0,197.5350819672131,122,sodhani sweets and namkeen street food jaipur gopalpura
+Sodhani Sweets Pvt. Ltd.,Jaipur,Bapu Nagar,Mithai,4.4,4.4,4.4,0,0,200.8059842519685,127,sodhani sweets pvt. ltd. mithai jaipur bapu nagar
+Speak Burgers by Vicky Ratnani,Mumbai,Pali Hill,Fast Food,4.2,4.2,4.2,0,0,460.47727272727275,44,speak burgers by vicky ratnani fast food mumbai pali hill
+Spice 9 Restaurant,Hyderabad,Malakpet,Seafood,3.6,3.9,3.75,30,0,259.4427083333333,192,spice 9 restaurant seafood hyderabad malakpet
+St. Louis Pizza,Jaipur,Bais Godam,Beverages,3.4,3.4,3.4,0,225,203.9090909090909,132,st. louis pizza beverages jaipur bais godam
+Starboy Pizza & Shakes,Mumbai,Worli,Beverages,3.5,3.5,3.5,0,0,184.0,30,starboy pizza & shakes beverages mumbai worli
+Subhan Bakery,Hyderabad,Nampally,Bakery,3.9,4.6,4.25,12,0,264.7368421052632,19,subhan bakery bakery hyderabad nampally
+Subway,Hyderabad,Malakpet,Beverages,3.8,3.8,3.8,113,0,247.88838709677418,124,subway beverages hyderabad malakpet
+Sudama Bhel,Pune,Yerawada,Fast Food,3.9,3.9,3.9,0,174,82.14285714285714,28,sudama bhel fast food pune yerawada
+Sukanta,Pune,Deccan Gymkhana,Beverages,4.2,4.1,4.15,0,0,390.4766666666667,3,sukanta beverages pune deccan gymkhana
+Sukumar Food Court,Kochi,Tripunithura,Sichuan,3.9,3.6,3.75,70,0,56.42857142857143,7,sukumar food court sichuan kochi tripunithura
+Supreme Sandwich Corner,Pune,Budhwar Peth,Beverages,2.9,4.2,3.55,10,0,182.09302325581396,43,supreme sandwich corner beverages pune budhwar peth
+Surabhi Grand,Hyderabad,Amberpet,Beverages,3.7,4.0,3.85,434,0,323.1556886227545,167,surabhi grand beverages hyderabad amberpet
+Swadesi Station,Jaipur,Bais Godam,Hyderabadi,4.1,4.1,4.1,0,743,226.18478260869566,92,swadesi station hyderabadi jaipur bais godam
+Swagth Hotel,Hyderabad,Charminar,Chinese,4.1,4.1,4.1,0,0,143.33333333333334,90,swagth hotel chinese hyderabad charminar
+Swat Pizza,Jaipur,Sodala,Beverages,4.0,3.9,3.95,105,0,257.2923076923077,65,swat pizza beverages jaipur sodala
+Swiss Castle,Hyderabad,Abids,Fast Food,4.1,4.5,4.3,162,0,186.36599999999999,100,swiss castle fast food hyderabad abids
+"T Shop - Tea, Snacks & More",Chennai,Royapettah,Beverages,3.9,3.9,3.9,30,824,124.96296296296296,81,"t shop - tea, snacks & more beverages chennai royapettah"
+TFC - The Food Club,Goa,Bardez,Fast Food,3.8,3.8,3.8,0,53,233.85245901639345,61,tfc - the food club fast food goa bardez
+Taco Bell,Hyderabad,The Next Galleria Mall,Wraps,4.3,3.7,4.0,117,0,201.61054794520547,73,taco bell wraps hyderabad the next galleria mall
+Taj Mahal - Taj Mahal Hotel,Hyderabad,Taj Mahal Hotel,Beverages,4.1,4.1,4.1,0,0,121.25316455696202,79,taj mahal - taj mahal hotel beverages hyderabad taj mahal hotel
+Taj Mughalai,Chennai,Purasavakkam,Sichuan,3.6,3.6,3.6,0,717,138.50420168067228,119,taj mughalai sichuan chennai purasavakkam
+Talk Of The Town,Jaipur,MI Road,Biryani,4.1,4.2,4.15,0,0,375.8253968253968,126,talk of the town biryani jaipur mi road
+Tan-Sukh By Kanha,Jaipur,C Scheme,Desserts,4.1,4.1,4.1,301,0,230.88381742738588,241,tan-sukh by kanha desserts jaipur c scheme
+Tapri Pratham,Jaipur,Lal Kothi,Beverages,4.1,4.3,4.199999999999999,692,0,226.0759493670886,79,tapri pratham beverages jaipur lal kothi
+Taste Of Turkey,Chennai,George Town,Kebab,4.3,4.3,4.3,0,258,197.34375,32,taste of turkey kebab chennai george town
+Tasty Tiffin Food Service,Goa,Penha de Franca,North Indian,4.1,4.1,4.1,0,222,104.48,25,tasty tiffin food service north indian goa penha de franca
+Tea Shack,Kochi,Palarivattom,Ice Cream,3.911782786885246,3.911782786885246,3.911782786885246,0,0,34.0,10,tea shack ice cream kochi palarivattom
+Tellicherry Kitchen,Kochi,Vennala,Fast Food,3.8,3.8,3.8,0,0,295.9586776859504,121,tellicherry kitchen fast food kochi vennala
+Thaal Kitchen,Kochi,MG Road,Fast Food,4.1,3.7,3.9,126,0,161.9783393501805,277,thaal kitchen fast food kochi mg road
+Thanjai Veeraswamy,Chennai,T. Nagar,Beverages,4.1,3.7,3.9,121,0,244.77380952380952,84,thanjai veeraswamy beverages chennai t. nagar
+The Belgian Waffle Co.,Hyderabad,Attapur,Ice Cream,3.9,4.3,4.1,1,0,185.04285714285714,56,the belgian waffle co. ice cream hyderabad attapur
+The Burger Cafe,Chennai,Perambur,Shake,4.0,4.0,4.0,0,868,114.51515151515152,66,the burger cafe shake chennai perambur
+The Burger Club,Hyderabad,Koti,Shake,3.3,3.3,3.3,0,241,130.6,75,the burger club shake hyderabad koti
+The Busy Beans,Jaipur,Raja Park,Burger,3.9,3.7,3.8,65,691,170.17573529411766,68,the busy beans burger jaipur raja park
+The Chef Company,Chennai,Nungambakkam,Healthy Food,4.2,4.2,4.2,0,0,217.47701149425288,174,the chef company healthy food chennai nungambakkam
+The Chinese Wok,Pune,Kondhwa,Sichuan,4.0,4.0,4.0,99,0,290.2101063829787,376,the chinese wok sichuan pune kondhwa
+The Exotic Shawarma,Hyderabad,Mehdipatnam,Shawarma,3.7,4.0,3.85,44,0,179.8108108108108,37,the exotic shawarma shawarma hyderabad mehdipatnam
+The Fatty Bao,Mumbai,Linking Road,Chinese,4.4,4.1,4.25,0,0,549.9577464788732,142,the fatty bao chinese mumbai linking road
+The Good Bowl,Mumbai,Wadala,Italian,3.9,3.9,3.9,0,912,233.56896551724137,58,the good bowl italian mumbai wadala
+The Hearth Kitchen,Kochi,Panampilly Nagar,Pizza,3.9,4.2,4.05,4,629,368.63157894736844,38,the hearth kitchen pizza kochi panampilly nagar
+The High Joint,Chennai,Alwarpet,Beverages,4.2,4.2,4.2,0,264,256.6829268292683,41,the high joint beverages chennai alwarpet
+The Kati Roll Shop,Chennai,Gopalapuram,Kebab,4.2,4.0,4.1,422,0,242.0625,48,the kati roll shop kebab chennai gopalapuram
+The Matka Biryani,Mumbai,Lower Parel,Lucknowi,3.9,3.9,3.9,0,0,376.96315789473687,190,the matka biryani lucknowi mumbai lower parel
+The Messy Door,Jaipur,Shastri Nagar,Beverages,4.2,4.0,4.1,901,0,215.976,125,the messy door beverages jaipur shastri nagar
+The Momo Factory,Mumbai,Dadar Shivaji Park,Fast Food,2.8,3.7,3.25,97,0,266.30631868131866,364,the momo factory fast food mumbai dadar shivaji park
+The Momoz Hub,Jaipur,C Scheme,Beverages,4.0,4.0,4.0,0,183,284.6800595238095,672,the momoz hub beverages jaipur c scheme
+The Old Mirchi Biryani,Chennai,Alwarpet,Desserts,4.2,4.2,4.2,0,0,258.9047619047619,105,the old mirchi biryani desserts chennai alwarpet
+The Pizza Box,Pune,Senapati Bapat Road,Beverages,4.1,3.8,3.9499999999999997,128,515,299.2894736842105,76,the pizza box beverages pune senapati bapat road
+The Pizza Station,Jaipur,Jhotwara,Chinese,4.0,4.0,4.0,119,0,209.56521739130434,69,the pizza station chinese jaipur jhotwara
+The Pizza Unlimited,Jaipur,Pink City,Street Food,3.4,4.0,3.7,550,0,273.51428571428573,105,the pizza unlimited street food jaipur pink city
+The Royal Rucchik Restaurant,Goa,Porvorim,Sichuan,3.4,3.2,3.3,9,381,135.77586206896552,58,the royal rucchik restaurant sichuan goa porvorim
+The Royal Ruchik,Goa,Panaji,Biryani,3.6,4.2,3.9000000000000004,36,0,183.225,40,the royal ruchik biryani goa panaji
+The Tea Planet,Hyderabad,Attapur,Coffee,3.4,3.6,3.5,0,116,104.88785046728972,107,the tea planet coffee hyderabad attapur
+The Thickshake Factory,Hyderabad,Himayath Nagar,Beverages,3.4,3.8,3.5999999999999996,38,0,226.6265060240964,83,the thickshake factory beverages hyderabad himayath nagar
+The Waffle Bite,Jaipur,Bais Godam,Fast Food,4.1,4.1,4.1,0,168,125.20192307692308,104,the waffle bite fast food jaipur bais godam
+The Wrap House,Hyderabad,Malakpet,Fast Food,4.0,4.1,4.05,60,0,198.90243902439025,41,the wrap house fast food hyderabad malakpet
+The Yellow House - The Robot Restaurant,Jaipur,C Scheme,Beverages,3.9,3.3,3.5999999999999996,0,0,327.7471264367816,87,the yellow house - the robot restaurant beverages jaipur c scheme
+Third Wave Coffee,Pune,Karve Nagar,Pizza,4.0,4.3,4.15,36,664,267.3039495798319,119,third wave coffee pizza pune karve nagar
+Tibb's Frankie - Serving Rolls Since 1969,Hyderabad,MPM Mall,Rolls,3.8,4.5,4.15,93,0,78.88888888888889,9,tibb's frankie - serving rolls since 1969 rolls hyderabad mpm mall
+Tibet Momo - World Class Pan Asian Cuisine,Chennai,Kora Food Street,Tibetan,3.9,4.1,4.0,99,0,173.7058823529412,17,tibet momo - world class pan asian cuisine tibetan chennai kora food street
+Tipsy Restaurant,Jaipur,Vidhyadhar Nagar,South Indian,3.7,4.1,3.9,169,0,198.4228187919463,149,tipsy restaurant south indian jaipur vidhyadhar nagar
+Tipsy Topsy Bakery,Hyderabad,Saroor Nagar,Chinese,3.8,3.9,3.8499999999999996,225,0,176.66216216216216,148,tipsy topsy bakery chinese hyderabad saroor nagar
+Toscano,Chennai,Nungambakkam,Beverages,4.7,4.1,4.4,891,0,492.4823529411765,170,toscano beverages chennai nungambakkam
+Tossin Pizza,Mumbai,Worli,Beverages,4.0,4.3,4.15,25,322,387.09615384615387,156,tossin pizza beverages mumbai worli
+Tower Burger,Chennai,Perambur,Beverages,3.8,3.7,3.75,0,64,116.48101265822785,79,tower burger beverages chennai perambur
+Truffles,Bangalore,St. Marks Road,Desserts,4.6,4.3,4.449999999999999,0,0,220.4404979253112,241,truffles desserts bangalore st. marks road
+U & Me Soya Chaap,Jaipur,Raja Park,North Indian,2.9,4.1,3.5,7,0,156.77083333333334,48,u & me soya chaap north indian jaipur raja park
+UBQ by Barbeque Nation,Hyderabad,Banjara Hills,Desserts,3.9,3.9,3.9,0,0,465.5212121212121,165,ubq by barbeque nation desserts hyderabad banjara hills
+Universal Al Mataam Mandi Kebab & Biryani,Hyderabad,Yousufguda,Kebab,3.9,3.7,3.8,288,0,248.8469387755102,98,universal al mataam mandi kebab & biryani kebab hyderabad yousufguda
+Unlimited Pizza & Fast Food Corner,Jaipur,Pink City,Street Food,4.0,4.0,4.0,0,59,274.0103092783505,97,unlimited pizza & fast food corner street food jaipur pink city
+Unlimited Pizza and Fast Food Corner,Jaipur,Amer Road,Street Food,3.9,3.9,3.9,0,56,111.8360655737705,61,unlimited pizza and fast food corner street food jaipur amer road
+Vaishnav Dhaba,Jaipur,Gopalpura,South Indian,3.9,3.9,3.9,0,0,178.61363636363637,88,vaishnav dhaba south indian jaipur gopalpura
+Victorian Bakery,Jaipur,Jawahar Nagar,Street Food,4.1,4.1,4.1,0,0,95.5,90,victorian bakery street food jaipur jawahar nagar
+WOW! China,Chennai,Aminijikarai,"Momos, Seafood",4.0,3.9,3.95,77,709,258.0984860557769,251,"wow! china momos, seafood chennai aminijikarai"
+WOW! Momo,Hyderabad,Malakpet,"Beverages, Fast Food",3.0,4.2,4.2,4,726,202.72823255813952,215,"wow! momo beverages, fast food hyderabad malakpet"
+Wangs Kitchen,Chennai,Royapettah,Desserts,3.3,4.0,3.65,279,0,403.13513513513516,111,wangs kitchen desserts chennai royapettah
+Wendy's,Pune,Law College Road,Fast Food,3.8,3.8,3.8,0,520,291.12849162011173,179,wendy's fast food pune law college road
+Wendy's Burgers,Hyderabad,Abids,"American, Beverages",4.2,4.2,4.2,0,0,255.56593406593407,364,"wendy's burgers american, beverages hyderabad abids"
+Winners Pizza - Fresh Dough,Mumbai,Sion,Beverages,3.2,3.2,3.2,0,452,350.6546762589928,139,winners pizza - fresh dough beverages mumbai sion
+Woodys Brook,Kochi,Palarivattom,Shake,4.0,4.0,4.0,0,0,319.05,20,woodys brook shake kochi palarivattom
+Wowfillss,Mumbai,Byculla,Beverages,4.0,4.0,4.0,0,944,129.02298850574712,87,wowfillss beverages mumbai byculla
+Writer's Cafe,Chennai,Egmore,Beverages,4.1,4.0,4.05,31,0,180.52909909909908,111,writer's cafe beverages chennai egmore
+Yashwanth Pizza Den,Hyderabad,RTC X roads,Beverages,4.0,4.0,4.0,0,15,166.28048780487805,82,yashwanth pizza den beverages hyderabad rtc x roads
+Zafar's Fine Dine,Hyderabad,Tolichowki,Desserts,3.9,4.0,3.95,306,0,367.1951219512195,205,zafar's fine dine desserts hyderabad tolichowki
+Zaffran Mataam Alarabi,Hyderabad,Falaknuma,Desserts,4.1,4.1,4.1,482,911,886.1111111111111,18,zaffran mataam alarabi desserts hyderabad falaknuma
+Zam Zam Briyani,Chennai,Choolaimedu,North Indian,3.3,3.4,3.3499999999999996,24,0,241.4468085106383,94,zam zam briyani north indian chennai choolaimedu
+Zomoz - The Momo Company,Hyderabad,Abids,Fast Food,4.3,4.3,4.3,0,726,161.79026666666667,75,zomoz - the momo company fast food hyderabad abids
