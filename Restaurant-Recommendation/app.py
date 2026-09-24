@@ -1,5 +1,8 @@
 import streamlit as st
 import pandas as pd
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
 
 # -----------------------------
 # PAGE CONFIGURATION
@@ -18,7 +21,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
 
-    data = pd.read_csv("restaurants_processed.csv")
+    data = pd.read_csv(BASE_DIR / "restaurants_processed.csv")
 
     # Remove extra spaces from column names
     data.columns = data.columns.str.strip()
