@@ -4,6 +4,9 @@ import numpy as np
 import pickle
 import re
 
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
 
 # =========================================================
 # PAGE CONFIGURATION
@@ -437,7 +440,7 @@ st.markdown("""
 @st.cache_data
 def load_movie_data():
 
-    data = pd.read_csv("movies_processed.csv")
+    data = pd.read_csv(BASE_DIR / "movies_processed.csv")
 
     data.columns = data.columns.str.strip()
 
@@ -451,7 +454,7 @@ def load_movie_data():
 @st.cache_resource
 def load_models():
 
-    with open("hybrid_recommendations.pkl", "rb") as f:
+    with open(BASE_DIR / "hybrid_recommendations.pkl", "rb") as f:
         hybrid_recommendations = pickle.load(f)
 
     return hybrid_recommendations
